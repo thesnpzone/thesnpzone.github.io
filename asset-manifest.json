@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d77a333.css",
+    "main.js": "/static/js/main.d7546be2.js",
+    "static/js/726.fde4c4c8.chunk.js": "/static/js/726.fde4c4c8.chunk.js",
+    "static/media/loader.gif": "/static/media/loader.5f93502b50a618e7a7bf.gif",
+    "static/media/background_img_3.png": "/static/media/background_img_3.ad4d833557d2ea9c7c4e.png",
+    "static/media/background_img_5.png": "/static/media/background_img_5.3445fc271f080b7f6ebc.png",
+    "static/media/background_img_6.png": "/static/media/background_img_6.b9853c98416c17a56c7e.png",
+    "static/media/Thank_You_Page.png": "/static/media/Thank_You_Page.ea1460df85391224518b.png",
+    "static/media/background_img_4.png": "/static/media/background_img_4.a65960fc8ef59cb3fbcf.png",
+    "static/media/background_img_7.png": "/static/media/background_img_7.6dc4a2f840978846e6ae.png",
+    "static/media/background_img_8.png": "/static/media/background_img_8.bd1ffa8c0ae1e8a531e6.png",
+    "static/media/tick.gif": "/static/media/tick.29de9e87787b9e008429.gif",
+    "static/media/projectwebdev.png": "/static/media/projectwebdev.38fa85c94145e1746fcf.png",
+    "static/media/projectuiux.png": "/static/media/projectuiux.95c98a9ed62d241bb04d.png",
+    "static/media/projectgraphicsdesign.png": "/static/media/projectgraphicsdesign.6dca4d1af005429fcb6d.png",
+    "static/media/bgM.webp": "/static/media/bgM.ffb9ece1274057ff2ead.webp",
+    "static/media/background_img_2.webp": "/static/media/background_img_2.650eca4fed27cdcd8915.webp",
+    "static/media/apMbg.webp": "/static/media/apMbg.4f48b3c4345b38ce50f1.webp",
+    "static/media/background_img_1.webp": "/static/media/background_img_1.6e57a3fcd633c3ff5316.webp",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Logo.webp": "/static/media/Logo.f7414eb81d50477122d0.webp",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/About.webp": "/static/media/About.7a2112019957a1f2e49c.webp",
+    "static/media/Project.webp": "/static/media/Project.b705af76713fae7dfb9f.webp",
+    "static/media/Contact.webp": "/static/media/Contact.df0e11fa50891dd3721d.webp",
+    "static/media/Skill.webp": "/static/media/Skill.83a66f92722f55118f7f.webp",
+    "static/media/Home.webp": "/static/media/Home.45b5fb21011751c39685.webp",
+    "main.6d77a333.css.map": "/static/css/main.6d77a333.css.map",
+    "main.d7546be2.js.map": "/static/js/main.d7546be2.js.map",
+    "726.fde4c4c8.chunk.js.map": "/static/js/726.fde4c4c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d77a333.css",
+    "static/js/main.d7546be2.js"
+  ]
+}
